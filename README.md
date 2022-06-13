@@ -10,7 +10,7 @@ Hello!
 
 I built this repo so I could curate a directory of resources I have found incredibly useful in my learning journey to be a web developer with zero experience. I hope that in creating this repo, I am able to provide even a little bit of help to all budding developers (like me :relaxed:!).
 
-One of my primary motivations is to help beginner devs to be able to easily contribute to open-resource projects. So feel free to contribute to this repo! If you have suggestions, would like to submit new resources, and/or have noticed typo/grammar mistakes, please read the [Contributing Guidelines](##contributing-guidelines) first.
+One of my primary motivations is to help beginner devs to be able to easily contribute to open-resource projects. So feel free to contribute to this repo! If you have suggestions, would like to submit new resources, and/or have noticed typo/grammar mistakes, please read the [Contributing Guidelines](./CONTRIBUTING.md) first.
 
 You earn contributions. I learn from you. Everyone learns. Win-win-win for everyone!
 
@@ -38,7 +38,6 @@ With that out of the way, I wish you well on your endeavors. Happy coding!! :gri
 - [VSCode](#vscode)
 - [Dev Tools & Resources](#dev-tools--resources)
 - [Career Prep](#career-prep)
-- [Contributing Guidelines](#contributing-guidelines)
 
 ## Developer Path
 
@@ -96,8 +95,8 @@ You may be thinking... "Huh?! Why is this part of this list?" Trust me, knowing 
 
 ### Markdown
 
-| Link                                                                                                | Type           | Description                          |
-| --------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------ | --------------------------------------------------------------------------------------- | ----------- | ----------------------------------- |
+| Link | Type | Description |
+| -- | -- | -- |
 | [Emoji Cheat Sheet for GitHub](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) | README.md file | Emoji cheatsheet for GitHub Markdown | [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | GitHub Wiki | Quick reference for GitHub Markdown |
 | [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github)                       | GitHub Docs    | Full specs for writing on GitHub     |
 
@@ -140,9 +139,5 @@ You may be thinking... "Huh?! Why is this part of this list?" Trust me, knowing 
 **[⬆️ Back to Table of Contents](#table-of-contents)**
 
 ## Career Prep
-
-**[⬆️ Back to Table of Contents](#table-of-contents)**
-
-## Contributing Guidelines
 
 **[⬆️ Back to Table of Contents](#table-of-contents)**
