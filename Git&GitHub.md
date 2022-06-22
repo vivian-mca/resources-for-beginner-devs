@@ -1,4 +1,4 @@
-**[:back: Table of Contents](README.md/)**
+**[:back: Main Page](README.md/)**
 
 # Git & GitHub
 
