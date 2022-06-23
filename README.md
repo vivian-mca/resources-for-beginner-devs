@@ -1,4 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/zero-to-mastery/resources/issues)
 
 <p align="center">
   <img src="https://img.freepik.com/free-vector/group-students-watching-online-webinar_74855-5514.jpg?w=2000&t=st=1654920135~exp=1654920735~hmac=50c86ab4eaa7953ce92e8d6884b691d49ecf2281656c4667c267fec1ee155cd3" alt="banner image" width="1000"/>
