@@ -24,7 +24,7 @@ With that out of the way, I wish you well on your endeavors. Happy coding!! :gri
 ## Table of Contents <!-- omit in toc -->
 
 - [**Career Prep**](CareerPrep.md): A collection of resources for career prep such as interview prep, resume writing, and more.
-- [**Courses**](Courses.md): Everybody learns differently. Check out these courses to see which one is the best fit for you. All of these courses also have their own Discord Communities. Personally, I have tried all of these courses.
+- [**Courses**](Courses.md): Everybody learns differently. Check out these courses to see which one is the best fit for you. All of these courses also have their own Discord Communities.
 - [**CSS**](CSS.md): A collection of resources for learning CSS.
 - [**Developer Path**](DeveloperPath.md): A roadmap for learning web development.
 - [**Dev Tools & Resources**](DevTools&Res.md): A collection of developer tools and resources.
