@@ -27,7 +27,7 @@ Familiar with contributions? Please proceed to [Adding new resources](#adding-ne
 
 ## Pull request using GitHub's Interface
 
-This follows the _fork → edit → pull request_ workflow, where the edits are done directly in GitHub. **Note:** This is method is not recommended for editing code. Use this method soley for editing .md files and/or other non-code files.
+This follows the _fork → edit → pull request_ workflow, where the edits are done directly in GitHub. **Note:** This method is not recommended for editing code. Use this method soley for editing .md files and/or other non-code files.
 
 ### Fork this repository
 
